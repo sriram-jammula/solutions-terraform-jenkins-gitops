@@ -1,7 +1,7 @@
 
 
 project_id = "glossy-mason-309017"
-tfstate_gcs_backend = "glossy-mason-309017-tfstate"
+tfstate_gcs_backend = "glossy-mason-309017--tfstate"
 region = "us-east4"
 zones = ["us-east4-a"]
 ip_range_pods_name = "ip-range-pods"
